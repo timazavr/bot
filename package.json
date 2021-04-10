@@ -19,5 +19,8 @@
     "url": "https://github.com/timazavr/bot/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/timazavr/bot#readme"
+  "homepage": "https://github.com/timazavr/bot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }

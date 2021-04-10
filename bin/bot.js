@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log('hello');
+import start from '../src/index.js';
+
+start();
